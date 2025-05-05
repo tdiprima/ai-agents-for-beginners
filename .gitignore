@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+*/*/.ipynb_checkpoints/
+env
+venv
+.env
+.venv
+
 # User-specific files
 *.rsuser
 *.suo

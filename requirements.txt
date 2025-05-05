@@ -6,13 +6,13 @@ azure-ai-inference~=1.0.0b8
 azure-ai-projects
 azure-search-documents>=11.5.2
 chainlit
-chromadb ~= 0.6.3
+chromadb~=0.6.3
 ipykernel~=6.29.5
 mcp[cli]
 mistralai~=0.4.2
 openai
 pillow==11.0.0
-pydantic
+pydantic>=2.10.0,<3.0.0
 python-dotenv~=1.0.1
 semantic-kernel>=1.27.2
 semantic-kernel[azure]>=1.27.2
